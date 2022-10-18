@@ -6,11 +6,9 @@
 /*   By: marferre <marferre@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/14 00:17:29 by marferre          #+#    #+#             */
-/*   Updated: 2022/10/14 00:58:44 by marferre         ###   ########.fr       */
+/*   Updated: 2022/10/18 17:38:20 by marferre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-/* LIFO -> Last Int First Out */
 
 #include <stdio.h>
 #include <stdlib.h>
